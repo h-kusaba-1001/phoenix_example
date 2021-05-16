@@ -1,4 +1,5 @@
-# PhxExample
+# Phoenix Example
+## Pheonix Framework By Elixir Example 
 
 ### Setup For Pheonix
 1. Elixirのインストール
