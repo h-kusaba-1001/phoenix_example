@@ -8,6 +8,12 @@
 4. `mix phx.new phx_example`
 5. `git init`
 
+### Setup For docker
+1. `docker-compose run web mix ecto.create`
+2. `docker-compose up`
+
+.dockerigonoreの項目について、吟味する
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
